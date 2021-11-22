@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 <img width="945" alt="2021-11-22 22_45_38-" src="https://user-images.githubusercontent.com/63516391/142939833-da4c9dea-6f67-4d59-b146-d21a5cf9ca39.png">
-<a href="">Click to See</a>
+<a href="https://dzoni19.github.io/sunnyside-agency-landing-page/">Click to See</a>
 
 
 ## My process
