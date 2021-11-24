@@ -10,9 +10,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-<img width="799" alt="2021-11-24 11_20_36-" src="https://user-images.githubusercontent.com/63516391/143220196-c94bf4ef-42e3-4ecd-b9b3-e52d634a9c90.png">
+<img width="945" alt="2021-11-22 22_45_38-" src="https://user-images.githubusercontent.com/63516391/143220390-4ae177a2-0cff-40b0-97a9-34b92794e299.png">
 
-<a href="">Click to See</a>
+
+<a href="https://dzoni19.github.io/sunnyside_agency-landing-page/">Click to See</a>
 
 
 ## My process
